@@ -1,16 +1,58 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**zohaib-dev-14/zohaib-dev-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full-Stack Developer with a strong focus on backend architecture and scalable API development.  
+I enjoy building secure, maintainable systems and integrating them with modern mobile applications.
 
-Here are some ideas to get you started:
+Currently strengthening my expertise in authentication, authorization, backend security, and deployment strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technical Skills
+
+### 📱 Mobile Development
+- Flutter
+- Dart
+- Riverpod & Provider (State Management)
+- Advanced & Custom Widgets
+- Responsive UI Design
+
+### 🌐 Backend Development
+- Node.js
+- Express.js
+- RESTful API Design
+- Middleware Architecture
+- Authentication (JWT)
+- Authorization & Role-Based Access Control
+- File Upload Handling (Multer)
+- Secure Password Hashing (bcrypt)
+
+### 🗄 Databases
+- MongoDB (Mongoose)
+- MySQL
+
+### 💻 Programming & Core Concepts
+- JavaScript
+- Dart
+- C++
+- Java
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (conceptual understanding)
+
+---
+
+## ⚙ Engineering Practices
+- Clean Code & Modular Architecture
+- MVC Pattern
+- Error Handling & Validation
+- Git & GitHub
+- API Testing (Postman)
+- Agile & Scrum
+- JIRA
+
+---
+
+## 🎯 Current Focus
+- Backend Security Best Practices
+- Production-Ready API Development
+- Cloud & Deployment Fundamentals
+- System Design Thinking
