@@ -1,27 +1,73 @@
-# 💫 About Me:
-🔭 I’m currently working on strengthening my backend development skills, focusing on authentication, authorization, and secure API architecture using Node.js and Express.<br><br>👯 I’m looking to collaborate on backend-driven mobile applications and scalable REST API projects.<br><br>🤝 I’m looking for help with advanced backend security practices, system design, and cloud deployment strategies.<br><br>🌱 I’m currently learning backend security, role-based access control, production-ready architecture, and DevOps fundamentals.<br><br>💬 Ask me about Flutter (Riverpod, Provider, Responsive UI), REST APIs, MongoDB, Express middleware, and clean backend structure.<br><br>⚡ Fun fact: I enjoy understanding how systems work internally — from HTTP request flow to authentication logic.
+# 💫 About Me
 
+🚀 Backend & Cloud Developer passionate about building production-ready backend systems using Spring Boot, AWS, Docker, and modern DevOps practices.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Zohaib) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Muhammad Zohaib) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DeeniBoy14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zohaibsaraj10@gmail.com) 
+🔭 Currently focused on designing secure and scalable backend architectures with Spring Boot, Spring Security, JWT Authentication, Redis caching, Dockerized deployment, CI/CD automation, and cloud infrastructure.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zohaib-dev-14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zohaib-dev-14&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib-dev-14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🌱 Continuously learning distributed systems, DevSecOps fundamentals, scalable microservice architecture, asynchronous processing, system design, and cloud-native engineering.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zohaib-dev-14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+☁️ Hands-on experience with AWS services including EC2, RDS, S3, ElastiCache, HTTPS setup using Nginx & Let's Encrypt, and production deployments using Docker Compose.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🛠️ Built and deployed a production-oriented Research Paper Management System featuring:
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zohaib-dev-14&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* JWT + Refresh Token Authentication
+* Role-Based Access Control (RBAC)
+* Redis Caching
+* AWS S3 File Storage
+* Dockerized Deployment
+* Nginx Reverse Proxy
+* CI/CD with GitHub Actions
+* HTTPS with Let's Encrypt
+* OpenAPI / Swagger Documentation
+
+👯 Open to collaborating on backend engineering, cloud-native applications, scalable REST APIs, and DevOps-focused projects.
+
+💬 Ask me about Spring Boot, REST APIs, JWT Authentication, Docker, AWS, PostgreSQL, Redis, CI/CD pipelines, deployment architecture, and backend security.
+
+⚡ Fun fact: I enjoy understanding how systems work internally — from HTTP request lifecycle and authentication flow to Docker networking and cloud infrastructure.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zohaib-dev-14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 💻 Tech Stack
+
+### Backend Development
+
+Spring Boot • Spring Security • Java • REST APIs • Hibernate • Spring Data JPA • Maven
+
+### Authentication & Security
+
+JWT Authentication • Refresh Tokens • RBAC • BCrypt • Secure API Design • OWASP Top 10
+
+### Databases & Caching
+
+PostgreSQL • MySQL • Redis • MongoDB
+
+### Cloud & DevOps
+
+AWS EC2 • AWS RDS • AWS S3 • AWS ElastiCache • Docker • Docker Compose • Nginx • GitHub Actions • CI/CD • Linux • HTTPS • Let's Encrypt
+
+### Tools & Platforms
+
+Git • GitHub • Postman • Swagger/OpenAPI • IntelliJ IDEA • Jira • Figma
+
+### Additional Knowledge
+
+---
+
+# 👨‍💻 Author
+
+Muhammad Zohaib
+
+Junior Java Backend Developer • Cloud Enthusiast • DevOps Enthusiast • DevSecOps Enthusiast
+
+### Core Skills
+
+Spring Boot • Spring Security • AWS • Docker • PostgreSQL • Redis • Nginx • CI/CD • Linux • JWT • REST APIs • GitHub Actions • OpenAPI • System Design
+
+### GitHub
+
+https://github.com/zohaib-dev-14
+
+
+System Design • Cloud-Native Architecture • Reverse Proxy • Deployment Automation • Distributed Systems Basics • Production Infrastructure
